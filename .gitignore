@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+fashion/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data outputs
+data/cleaned/
+data/processed/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Large installers
+Miniconda3-latest-MacOSX-arm64.sh
