@@ -1,90 +1,40 @@
 # Lagos Fashion Competitor Intelligence Platform
 
-## Quick Start (follow these steps IN ORDER)
+## Social Media Engagement & Purchase-Intent Audit
 
-### Step 1 — Install Python dependencies
-Open your terminal in VS Code and run:
-```
-pip install pandas numpy playwright sqlalchemy psycopg2-binary matplotlib scikit-learn streamlit textblob
-playwright install chromium
-```
+A complete end-to-end data analytics project that scrapes, cleans, analyses and visualises Instagram competitor data for 5 Lagos fashion brands to inform social media budget allocation.
 
-### Step 2 — Set up PostgreSQL
-1. Download and install PostgreSQL: https://www.postgresql.org/download/
-2. Open pgAdmin (comes with PostgreSQL)
-3. Create a new database called: fashiondb
-4. Open the Query Tool in pgAdmin
-5. Paste and run the contents of: database/schema.sql
-
-### Step 3 — Run the scraper
-```
-python scraper/instagram_scraper.py
-```
-This saves raw data to: data/raw/instagram_posts.csv
-
-### Step 4 — Clean the data
-```
-python analytics/clean_data.py
-```
-Saves to: data/cleaned/cleaned_posts.csv
-
-### Step 5 — Load into database
-```
-python analytics/load_to_db.py
-```
-
-### Step 6 — Run engagement analytics
-```
-python analytics/engagement_analysis.py
-```
-
-### Step 7 — Run purchase intent classifier
-```
-python analytics/intent_classifier.py
-```
-Saves to: data/processed/intent_classified.csv
-
-### Step 8 — Launch the dashboard
-```
-streamlit run dashboard/streamlit_app.py
-```
-Opens in your browser at: http://localhost:8501
-
----
-
-## Project Structure
-```
-fashion_competitor_project/
-├── data/
-│   ├── raw/              ← scraped files land here
-│   ├── cleaned/          ← after cleaning
-│   └── processed/        ← after analytics
-├── scraper/
-│   └── instagram_scraper.py
-├── analytics/
-│   ├── clean_data.py
-│   ├── load_to_db.py
-│   ├── engagement_analysis.py
-│   └── intent_classifier.py
-├── database/
-│   └── schema.sql
-├── dashboard/
-│   └── streamlit_app.py
-└── reports/
-    └── executive_report_template.md
-```
-
-## Target Brands
-| Brand | Instagram Handle | Approx Followers |
-|-------|-----------------|-----------------|
+## Brands Analysed
+| Brand | Handle | Followers |
+|-------|--------|-----------|
 | Veekee James | @veekeejames_official | 2M |
 | Ashluxe | @ashluxe | 150K |
 | WAF Lagos | @wflsncrm | 25K |
-| Ziva Lagos | @zivalagos | 80K |
-| Yomi Casual | @yomicasual | 500K |
+| Ziva Lagos | @zivalagos | 77K |
+| Yomi Casual | @yomicasual | 1M |
 
-## Troubleshooting
-- **Playwright not finding browser**: run `playwright install chromium` again
-- **PostgreSQL connection error**: check your username/password in load_to_db.py and engagement_analysis.py
-- **Instagram blocks scraper**: slow down the time.sleep() values (try 8-10 seconds)
-- **TextBlob error**: run `python -m textblob.download_corpora`
+## Tech Stack
+- **Scraping:** Apify Instagram Scraper
+- **Processing:** Python, Pandas
+- **Database:** PostgreSQL + SQLAlchemy
+- **NLP:** TextBlob, keyword-based intent classifier
+- **Dashboard:** Streamlit
+- **Version Control:** Git + GitHub
+
+## Key Findings
+- Ziva Lagos has the highest purchase-intent signal rate (100% of high-intent posts)
+- Veekee James dominates raw engagement (7.17% avg rate)
+- Instagram drives stronger purchase-intent than other platforms
+- Evening posts (7–10 PM WAT) generate highest engagement
+
+## How to Run
+```bash
+conda activate fashion
+python analytics/convert_apify.py
+python analytics/clean_data.py
+python analytics/intent_classifier.py
+python analytics/load_to_db.py
+streamlit run dashboard/streamlit_app.py
+```
+
+## Project Structure
