@@ -38,3 +38,15 @@ streamlit run dashboard/streamlit_app.py
 ```
 
 ## Project Structure
+├── scraper/          # Playwright + Apify scraper
+├── analytics/        # ETL pipeline, NLP classifier, engagement analysis
+├── database/         # PostgreSQL schema
+├── dashboard/        # Streamlit interactive dashboard
+├── sql/              # Analytical SQL queries
+├── data/
+│   ├── raw/          # Scraped data from Apify
+│   ├── cleaned/      # After cleaning pipeline
+│   └── processed/    # After NLP classification
+└── reports/          # Executive report template
+## Dashboard Preview
+![Dashboard](docs/screenshots/dashboard.png)
