@@ -50,3 +50,14 @@ streamlit run dashboard/streamlit_app.py
 └── reports/          # Executive report template
 ## Dashboard Preview
 ![Dashboard](docs/screenshots/dashboard.png)
+
+## Dashboard Screenshots
+
+### Overview — KPIs & Engagement
+![Dashboard Overview](docs/screenshots/dashboard_overview.png)
+
+### Purchase Intent by Brand
+![Purchase Intent](docs/screenshots/dashboard_intent.png)
+
+### Full Dashboard
+![Full Dashboard](docs/screenshots/dashboard_full.png)
