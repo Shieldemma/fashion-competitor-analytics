@@ -26,3 +26,8 @@ data/processed/
 
 # Large installers
 Miniconda3-latest-MacOSX-arm64.sh
+data/raw/apify_raw.csv
+Miniconda3-latest-MacOSX-arm64.sh
+.env
+__pycache__/
+*.pyc

@@ -1,104 +1,337 @@
-brand,platform,post_url,caption,likes,followers,post_date,engagement_rate,post_hour,post_day,has_intent_signal,intent_tier,sentiment,intent_signals
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_0/,Available in sizes XS to 3XL. Inclusive fashion always.,20712,2000000,2026-05-03 08:35:21.993832,1.0356,8,Sunday,True,Medium Intent,positive,2
-veekeejames_official,tiktok,https://www.instagram.com/p/sample_veekeejames_official_1/,How much? Check the link in our bio!,14688,2000000,2026-05-09 07:35:21.993852,0.7344,7,Saturday,True,High Intent,positive,2
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_2/,New arrivals every Friday. Shop the link in bio.,44473,2000000,2026-04-06 12:35:21.993861,2.2236,12,Monday,True,Medium Intent,neutral,2
-veekeejames_official,tiktok,https://www.instagram.com/p/sample_veekeejames_official_3/,How much? Check the link in our bio!,27555,2000000,2026-04-04 13:35:21.993866,1.3778,13,Saturday,True,High Intent,positive,2
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_4/,Payment via bank transfer or card. DM to get started.,31134,2000000,2026-05-02 12:35:21.993869,1.5567,12,Saturday,True,High Intent,neutral,2
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_5/,Do you deliver to Abuja? Yes we do! Inbox us.,22284,2000000,2026-03-18 17:35:21.993873,1.1142,17,Wednesday,True,High Intent,neutral,2
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_6/,New editorial just shot. Full campaign drops Friday.,12840,2000000,2026-04-07 08:35:21.993877,0.642,8,Tuesday,False,No Signal,positive,0
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_7/,Celebrity spotted wearing our latest collection.,34384,2000000,2026-04-02 17:35:21.993884,1.7192,17,Thursday,False,No Signal,positive,0
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_8/,Payment via bank transfer or card. DM to get started.,7995,2000000,2026-04-27 13:35:21.993888,0.3998,13,Monday,True,High Intent,neutral,2
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_9/,This sold out in 2 hours last time. Stock up now.,13217,2000000,2026-04-12 22:35:21.993892,0.6608,22,Sunday,True,Medium Intent,neutral,1
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_10/,Do you ship to the UK? Yes! DM for international rates.,24013,2000000,2026-04-24 22:35:21.993896,1.2006,22,Friday,True,Medium Intent,neutral,1
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_11/,This fabric is fire. What colour should we restock first?,19739,2000000,2026-04-26 09:35:21.993899,0.987,9,Sunday,True,Medium Intent,positive,4
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_12/,How to order: send us a DM with your size and location.,34518,2000000,2026-04-21 07:35:21.993902,1.7259,7,Tuesday,True,High Intent,neutral,4
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_13/,New editorial just shot. Full campaign drops Friday.,26405,2000000,2026-05-07 12:35:21.993906,1.3203,12,Thursday,False,No Signal,positive,0
-veekeejames_official,tiktok,https://www.instagram.com/p/sample_veekeejames_official_14/,Behind the scenes of our latest shoot.,24661,2000000,2026-04-16 22:35:21.993909,1.233,22,Thursday,False,No Signal,neutral,0
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_15/,How to order: send us a DM with your size and location.,13673,2000000,2026-04-06 20:35:21.993912,0.6836,20,Monday,True,High Intent,neutral,4
-veekeejames_official,tiktok,https://www.instagram.com/p/sample_veekeejames_official_16/,Viral fashion moment. Available in store now.,47558,2000000,2026-04-16 17:35:21.993916,2.3779,17,Thursday,True,Medium Intent,positive,1
-veekeejames_official,instagram,https://www.instagram.com/p/sample_veekeejames_official_17/,Thank you for 500K followers. You are everything to us.,27139,2000000,2026-05-08 08:35:21.993919,1.357,8,Friday,False,No Signal,neutral,0
-veekeejames_official,tiktok,https://www.instagram.com/p/sample_veekeejames_official_18/,This look took 3 hours to make. Worth it?,38416,2000000,2026-04-17 18:35:21.993922,1.9208,18,Friday,False,No Signal,positive,0
-ashluxe,tiktok,https://www.instagram.com/p/sample_ashluxe_0/,Outfit of the week. DM for price and availability.,14257,150000,2026-05-11 22:35:21.993927,9.5047,22,Monday,True,High Intent,neutral,2
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_1/,Lagos Fashion Week ready. Swipe to see the full look.,12963,150000,2026-03-23 22:35:21.993930,8.642,22,Monday,False,No Signal,positive,0
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_2/,Free delivery in Lagos this weekend only.,6628,150000,2026-05-11 13:35:21.993933,4.4187,13,Monday,True,Medium Intent,neutral,1
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_3/,Thank you for 500K followers. You are everything to us.,4852,150000,2026-04-22 22:35:21.993936,3.2347,22,Wednesday,False,No Signal,neutral,0
-ashluxe,tiktok,https://www.instagram.com/p/sample_ashluxe_4/,Lagos street style is on another level fr.,4049,150000,2026-05-01 20:35:21.993940,2.6993,20,Friday,False,No Signal,neutral,0
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_5/,This fabric is fire. What colour should we restock first?,7243,150000,2026-05-04 17:35:21.993943,4.8287,17,Monday,True,Medium Intent,positive,4
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_6/,Price? Check our bio link for the full catalogue.,7744,150000,2026-05-06 08:35:21.993946,5.1627,8,Wednesday,True,High Intent,positive,2
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_7/,How much for the full set? DM us for a price list.,4331,150000,2026-04-07 09:35:21.993949,2.8873,9,Tuesday,True,High Intent,positive,3
-ashluxe,tiktok,https://www.instagram.com/p/sample_ashluxe_8/,The fit check you needed today.,8058,150000,2026-04-08 21:35:21.993952,5.372,21,Wednesday,False,No Signal,positive,0
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_9/,"We deliver nationwide. Order today, receive in 3 days.",13047,150000,2026-03-28 12:35:21.993955,8.698,12,Saturday,True,Medium Intent,neutral,1
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_10/,Whatsapp us to place your order today.,7715,150000,2026-04-08 19:35:21.993958,5.1433,19,Wednesday,True,High Intent,neutral,2
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_11/,New arrivals every Friday. Shop the link in bio.,2654,150000,2026-04-04 20:35:21.993961,1.7693,20,Saturday,True,Medium Intent,neutral,2
-ashluxe,tiktok,https://www.instagram.com/p/sample_ashluxe_12/,Lagos street style is on another level fr.,1390,150000,2026-04-01 07:35:21.993964,0.9267,7,Wednesday,False,No Signal,neutral,0
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_13/,Handmade in Lagos with love. Every piece is unique.,3237,150000,2026-05-07 20:35:21.993967,2.158,20,Thursday,True,Medium Intent,positive,1
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_14/,Lagos Fashion Week ready. Swipe to see the full look.,7677,150000,2026-05-03 21:35:21.993971,5.118,21,Sunday,False,No Signal,positive,0
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_15/,New arrivals every Friday. Shop the link in bio.,12147,150000,2026-04-29 08:35:21.993974,8.098,8,Wednesday,True,Medium Intent,neutral,2
-ashluxe,tiktok,https://www.instagram.com/p/sample_ashluxe_16/,Trending in Lagos right now. Do you have yours?,7326,150000,2026-04-12 07:35:21.993977,4.884,7,Sunday,False,No Signal,positive,0
-ashluxe,tiktok,https://www.instagram.com/p/sample_ashluxe_17/,New drop alert. Link in bio to shop.,2759,150000,2026-04-20 08:35:21.993980,1.8393,8,Monday,True,Medium Intent,neutral,2
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_18/,Can I get this in red? DM us your size and colour.,10342,150000,2026-04-14 09:35:21.993983,6.8947,9,Tuesday,True,Medium Intent,neutral,4
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_19/,New arrivals every Friday. Shop the link in bio.,3087,150000,2026-03-17 20:35:21.993986,2.058,20,Tuesday,True,Medium Intent,neutral,2
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_20/,Limited pieces available. Order before it sells out.,13774,150000,2026-05-06 12:35:21.993989,9.1827,12,Wednesday,True,Medium Intent,neutral,2
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_21/,Made for the bold. New drop available now.,7622,150000,2026-04-16 07:35:21.993992,5.0813,7,Thursday,True,Medium Intent,positive,1
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_22/,New collection just dropped! DM to order. Available in all sizes.,6818,150000,2026-03-22 19:35:21.993996,4.5453,19,Sunday,True,High Intent,positive,5
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_23/,Payment via bank transfer or card. DM to get started.,12543,150000,2026-04-10 09:35:21.993999,8.362,9,Friday,True,High Intent,neutral,2
-ashluxe,instagram,https://www.instagram.com/p/sample_ashluxe_24/,Can I get this in red? DM us your size and colour.,3145,150000,2026-04-07 07:35:21.994002,2.0967,7,Tuesday,True,Medium Intent,neutral,4
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_0/,Price? Check our bio link for the full catalogue.,1370,25000,2026-03-14 20:35:21.994005,5.48,20,Saturday,True,High Intent,positive,2
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_1/,Thank you for 500K followers. You are everything to us.,466,25000,2026-05-07 21:35:21.994009,1.864,21,Thursday,False,No Signal,neutral,0
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_2/,Lagos street style is on another level fr.,714,25000,2026-03-16 21:35:21.994012,2.856,21,Monday,False,No Signal,neutral,0
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_3/,Viral fashion moment. Available in store now.,307,25000,2026-04-15 22:35:21.994015,1.228,22,Wednesday,True,Medium Intent,positive,1
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_4/,How much? Check the link in our bio!,1141,25000,2026-04-28 22:35:21.994018,4.564,22,Tuesday,True,High Intent,positive,2
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_5/,New arrivals every Friday. Shop the link in bio.,681,25000,2026-03-30 22:35:21.994021,2.724,22,Monday,True,Medium Intent,neutral,2
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_6/,The craftsmanship on this is insane. Price please!,2345,25000,2026-05-11 19:35:21.994025,9.38,19,Monday,True,High Intent,negative,1
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_7/,New drop alert. Link in bio to shop.,360,25000,2026-04-09 13:35:21.994029,1.44,13,Thursday,True,Medium Intent,neutral,2
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_8/,Handmade in Lagos with love. Every piece is unique.,443,25000,2026-04-18 13:35:21.994033,1.772,13,Saturday,True,Medium Intent,positive,1
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_9/,How much for the full set? DM us for a price list.,1525,25000,2026-04-02 22:35:21.994036,6.1,22,Thursday,True,High Intent,positive,3
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_10/,Lagos Fashion Week ready. Swipe to see the full look.,1954,25000,2026-03-13 22:35:21.994039,7.816,22,Friday,False,No Signal,positive,0
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_11/,How to order: send us a DM with your size and location.,571,25000,2026-03-25 20:35:21.994042,2.284,20,Wednesday,True,High Intent,neutral,4
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_12/,Free delivery in Lagos this weekend only.,1105,25000,2026-04-20 12:35:21.994045,4.42,12,Monday,True,Medium Intent,neutral,1
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_13/,Outfit of the week. DM for price and availability.,1223,25000,2026-03-15 07:35:21.994050,4.892,7,Sunday,True,High Intent,neutral,2
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_14/,Trending in Lagos right now. Do you have yours?,1558,25000,2026-05-11 17:35:21.994053,6.232,17,Monday,False,No Signal,positive,0
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_15/,Outfit of the week. DM for price and availability.,632,25000,2026-04-06 18:35:21.994056,2.528,18,Monday,True,High Intent,neutral,2
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_16/,Beautiful work on this piece. How much is this outfit?,480,25000,2026-03-28 09:35:21.994059,1.92,9,Saturday,True,High Intent,positive,1
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_17/,How much for the full set? DM us for a price list.,1019,25000,2026-05-02 18:35:21.994062,4.076,18,Saturday,True,High Intent,positive,3
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_18/,Free delivery in Lagos this weekend only.,1247,25000,2026-03-22 07:35:21.994065,4.988,7,Sunday,True,Medium Intent,neutral,1
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_19/,Lagos Fashion Week ready. Swipe to see the full look.,805,25000,2026-04-19 20:35:21.994069,3.22,20,Sunday,False,No Signal,positive,0
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_20/,This look took 3 hours to make. Worth it?,883,25000,2026-03-21 09:35:21.994072,3.532,9,Saturday,False,No Signal,positive,0
-wflsncrm,instagram,https://www.instagram.com/p/sample_wflsncrm_21/,This is everything. Where can I order from?,2288,25000,2026-03-22 18:35:21.994076,9.152,18,Sunday,True,High Intent,neutral,2
-wflsncrm,tiktok,https://www.instagram.com/p/sample_wflsncrm_22/,Lagos street style is on another level fr.,542,25000,2026-03-28 08:35:21.994079,2.168,8,Saturday,False,No Signal,neutral,0
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_0/,New arrivals every Friday. Shop the link in bio.,3050,80000,2026-04-12 17:35:21.994082,3.8125,17,Sunday,True,Medium Intent,neutral,2
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_1/,New arrivals every Friday. Shop the link in bio.,1120,80000,2026-04-16 17:35:21.994085,1.4,17,Thursday,True,Medium Intent,neutral,2
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_2/,The comments section is everything. You guys are amazing.,2718,80000,2026-04-09 18:35:21.994089,3.3975,18,Thursday,False,Low Intent,positive,0
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_3/,Behind the scenes of our latest shoot.,710,80000,2026-04-25 09:35:21.994092,0.8875,9,Saturday,False,No Signal,neutral,0
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_4/,Price? Check our bio link for the full catalogue.,1818,80000,2026-04-19 17:35:21.994095,2.2725,17,Sunday,True,High Intent,positive,2
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_5/,How much? Check the link in our bio!,1586,80000,2026-04-05 12:35:21.994098,1.9825,12,Sunday,True,High Intent,positive,2
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_6/,Payment via bank transfer or card. DM to get started.,2629,80000,2026-03-13 20:35:21.994101,3.2862,20,Friday,True,High Intent,neutral,2
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_7/,Lagos street style is on another level fr.,3575,80000,2026-03-30 17:35:21.994105,4.4688,17,Monday,False,No Signal,neutral,0
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_8/,Lagos Fashion Week ready. Swipe to see the full look.,2139,80000,2026-04-22 20:35:21.994108,2.6738,20,Wednesday,False,No Signal,positive,0
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_9/,Trending in Lagos right now. Do you have yours?,3200,80000,2026-04-23 20:35:21.994111,4.0,20,Thursday,False,No Signal,positive,0
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_10/,Restock alert — the sold out styles are back!,4458,80000,2026-03-15 09:35:21.994114,5.5725,9,Sunday,True,Medium Intent,neutral,2
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_11/,Outfit of the week. DM for price and availability.,4284,80000,2026-05-11 13:35:21.994117,5.355,13,Monday,True,High Intent,neutral,2
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_12/,Restock alert — the sold out styles are back!,3342,80000,2026-04-13 22:35:21.994120,4.1775,22,Monday,True,Medium Intent,neutral,2
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_13/,The fit check you needed today.,2468,80000,2026-04-23 20:35:21.994124,3.085,20,Thursday,False,No Signal,positive,0
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_14/,Viral fashion moment. Available in store now.,2391,80000,2026-03-24 12:35:21.994127,2.9888,12,Tuesday,True,Medium Intent,positive,1
-zivalagos,instagram,https://www.instagram.com/p/sample_zivalagos_15/,New arrivals every Friday. Shop the link in bio.,1745,80000,2026-05-09 12:35:21.994130,2.1812,12,Saturday,True,Medium Intent,neutral,2
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_16/,New drop alert. Link in bio to shop.,4219,80000,2026-04-01 21:35:21.994133,5.2738,21,Wednesday,True,Medium Intent,neutral,2
-zivalagos,tiktok,https://www.instagram.com/p/sample_zivalagos_17/,Trending in Lagos right now. Do you have yours?,4459,80000,2026-05-02 22:35:21.994136,5.5738,22,Saturday,False,No Signal,positive,0
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_0/,The comments section is everything. You guys are amazing.,6948,500000,2026-03-21 20:35:21.994140,1.3896,20,Saturday,False,Low Intent,positive,0
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_1/,Celebrity spotted wearing our latest collection.,8113,500000,2026-05-04 19:35:21.994143,1.6226,19,Monday,False,No Signal,positive,0
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_2/,Lagos Fashion Week ready. Swipe to see the full look.,14879,500000,2026-04-03 17:35:21.994147,2.9758,17,Friday,False,No Signal,positive,0
-yomicasual,tiktok,https://www.instagram.com/p/sample_yomicasual_3/,How much? Check the link in our bio!,11368,500000,2026-04-06 19:35:21.994150,2.2736,19,Monday,True,High Intent,positive,2
-yomicasual,tiktok,https://www.instagram.com/p/sample_yomicasual_4/,The fit check you needed today.,7567,500000,2026-04-26 22:35:21.994154,1.5134,22,Sunday,False,No Signal,positive,0
-yomicasual,tiktok,https://www.instagram.com/p/sample_yomicasual_5/,The fit check you needed today.,4851,500000,2026-05-07 13:35:21.994157,0.9702,13,Thursday,False,No Signal,positive,0
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_6/,The craftsmanship on this is insane. Price please!,9513,500000,2026-05-06 09:35:21.994160,1.9026,9,Wednesday,True,High Intent,negative,1
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_7/,Whatsapp us to place your order today.,5246,500000,2026-05-07 18:35:21.994163,1.0492,18,Thursday,True,High Intent,neutral,2
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_8/,Celebrity spotted wearing our latest collection.,8983,500000,2026-04-28 18:35:21.994166,1.7966,18,Tuesday,False,No Signal,positive,0
-yomicasual,tiktok,https://www.instagram.com/p/sample_yomicasual_9/,POV: You just discovered the best Lagos fashion brand.,10338,500000,2026-05-11 17:35:21.994169,2.0676,17,Monday,False,No Signal,positive,0
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_10/,This sold out in 2 hours last time. Stock up now.,9136,500000,2026-03-25 20:35:21.994172,1.8272,20,Wednesday,True,Medium Intent,neutral,1
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_11/,Made for the bold. New drop available now.,4578,500000,2026-04-10 07:35:21.994175,0.9156,7,Friday,True,Medium Intent,positive,1
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_12/,Lagos Fashion Week ready. Swipe to see the full look.,10170,500000,2026-03-19 19:35:21.994178,2.034,19,Thursday,False,No Signal,positive,0
-yomicasual,tiktok,https://www.instagram.com/p/sample_yomicasual_13/,How much? Check the link in our bio!,3235,500000,2026-04-04 21:35:21.994181,0.647,21,Saturday,True,High Intent,positive,2
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_14/,Do you deliver to Abuja? Yes we do! Inbox us.,6392,500000,2026-04-12 09:35:21.994184,1.2784,9,Sunday,True,High Intent,neutral,2
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_15/,Whatsapp us to place your order today.,5664,500000,2026-04-21 17:35:21.994187,1.1328,17,Tuesday,True,High Intent,neutral,2
-yomicasual,instagram,https://www.instagram.com/p/sample_yomicasual_16/,The comments section is everything. You guys are amazing.,7140,500000,2026-05-06 19:35:21.994190,1.428,19,Wednesday,False,Low Intent,positive,0
-yomicasual,tiktok,https://www.instagram.com/p/sample_yomicasual_17/,How much? Check the link in our bio!,3993,500000,2026-04-19 12:35:21.994193,0.7986,12,Sunday,True,High Intent,positive,2
+brand,platform,post_url,caption,likes,comments_count,followers,post_date,first_comment,post_type,engagement_rate,post_hour,post_day,has_intent_signal,intent_tier,sentiment,intent_signals
+zivalagos,instagram,https://www.instagram.com/p/DXRmu0fjWce/,"Hi Ziva website shoppers!
+
+We want your checkout experience to be as smooth as your new Ziva fit 💜
+
+So, if you’re paying in Naira, simply select Flutterwave at checkout. They offer card payment, USSD, bank payment, and bank transfer.
+
+If you’re paying internationally, your credit card works best. 🥰
+
+#zivalagos #zivacommunity #zivadivas",7,0,77000,2026-04-18 13:42:42+00:00,,Image,0.0091,13.0,Saturday,True,High Intent,positive,2
+zivalagos,instagram,https://www.instagram.com/p/DXMTmicjPy2/,"Hi Divas! Fitting just got easier💜
+
+We curated the Ziva Petite Length Guide to help you find the right lengths across dresses, skirt sets, and pant sets, so everything sits just right on you. 
+
+Because we know how important a good fit is.🤭
+
+Save this guide for reference and shop your Ziva favourites online or in-store.
+
+#zivalagos #petitelength #sizeguide #madeinnigeria",36,3,77000,2026-04-16 12:18:56+00:00,😍,Sidecar,0.0468,12.0,Thursday,True,Medium Intent,positive,2
+zivalagos,instagram,https://www.instagram.com/p/DYM3KIABhOZ/,"RESTOCKED 💜✨
+
+The Milan Mesh Dress (Ziva Custom Print) is that dress that makes an entrance without trying too hard🤭✨
+
+Price: ₦110,000
+
+Shop her online at www.zivalagos.com or visit us in-store 
+
+#zivalagos #lagosfashion #nigerianfashion #womenswear #lagosstyle",40,6,77000,2026-05-11 14:01:51+00:00,😍😍😍,Video,0.0519,14.0,Monday,True,High Intent,neutral,4
+zivalagos,instagram,https://www.instagram.com/p/DX__t1KsIS4/,"Main character, but make it linen 💙🤭
+
+The Amara Linen Set (Blue Haven Print) is that set that does all the talking for you ✨
+
+Price:₦60,000 
+
+Visit the link in our bio to shop or walk into our store.
+
+#zivalagos #lagosfashion #nigerianfashion #womenswear #lagosstyle",55,6,77000,2026-05-06 14:06:15+00:00,Will this be restocked,Video,0.0714,14.0,Wednesday,True,High Intent,neutral,3
+ashluxe,instagram,https://www.instagram.com/p/DWt8eHKF13d/,"A balance of comfort and elegance, reimagined through the lens of streetwear.",196,5,150000,2026-04-04 17:19:35+00:00,This feels like a proper editorial 🔥,Sidecar,0.1307,17.0,Saturday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWjmq9Ul1AU/,Bold colours and deliberate form. A vibrant assemblage of statement detailing.,421,2,150000,2026-03-31 16:56:42+00:00,🔥🔥🔥🔥🔥🔥🔥🔥,Sidecar,0.2807,16.0,Tuesday,True,Medium Intent,positive,2
+ashluxe,instagram,https://www.instagram.com/p/DWhBKVLl2zf/,Designed with intention. Elevated layering and structured tailoring.,363,2,150000,2026-03-30 16:50:00+00:00,Ashluxe steady killing it❤️,Sidecar,0.242,16.0,Monday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWb54DMl7wK/,"Defined by layered precision and a relaxed silhouette, this look reimagines travel through elevated craftsmanship and bold intention.",244,3,150000,2026-03-28 17:10:00+00:00,Why 🔥,Sidecar,0.1627,17.0,Saturday,False,No Signal,positive,0
+ashluxe,instagram,https://www.instagram.com/p/DWmMGcPl0fK/,"A study in structured simplicity, the Ashluxe way.",271,7,150000,2026-04-01 17:02:15+00:00,Nice,Sidecar,0.1807,17.0,Wednesday,False,No Signal,neutral,0
+zivalagos,instagram,https://www.instagram.com/p/DYHckbMsxIX/,"RESTOCKED!!!!
+
+The Kairo Custom Ziva Mesh Top is back✨ the latest addition your wardrobe will love 🤭
+
+Price: ₦50,500
+
+Visit the link in our bio to shop or walk into our store.
+
+#zivalagos #lagosfashion #nigerianfashion #womenswear #lagosstyle",34,11,77000,2026-05-09 11:33:22+00:00,The top 🔥🔥❤️,Video,0.0442,11.0,Saturday,True,High Intent,positive,5
+ashluxe,instagram,https://www.instagram.com/p/DWrRT1vF1Gr/,"A balance of comfort and elegance, reimagined through the lens of streetwear.",208,0,150000,2026-04-03 16:23:58+00:00,,Sidecar,0.1387,16.0,Friday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWzFFl1lxDv/,Structure. Confidence. Intention.,412,6,150000,2026-04-06 17:11:05+00:00,🔥 love this campaign,Sidecar,0.2747,17.0,Monday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DW_uJxwOwai/,A vibrant and refined display of structure and bold expression.,2326,40,150000,2026-04-11 15:00:00+00:00,Clock it,Video,1.5507,15.0,Saturday,False,No Signal,positive,0
+ashluxe,instagram,https://www.instagram.com/p/DXM0KTxF9Pw/,"Engineered in denim, worn with presence.",193,5,150000,2026-04-16 17:03:26+00:00,"Dear Ashluxe 
+
+My name is Ayoade, and I’m a growing streetwear and fashion content creator with a strong passion for storytelling through fashion content.
+
+I create clean, engaging, and consistent content that helps showcase the identity and energy behind each collection in a natural and stylish way. My goal is not just to promote clothing, but to create content that connects with audiences and brings more visibility to brands.
+
+I truly admire your brand and would love the opportunity to collaborate and create content featuring your pieces.
+
+Thank you for your time, and I look forward to hearing from you.
+
+Kind regards,
+Ayoade",Sidecar,0.1287,17.0,Thursday,False,No Signal,neutral,0
+zivalagos,instagram,https://www.instagram.com/p/DYPOGGqs4C0/,"RESTOCKED 💜✨ 
+
+The Alessandra Dress (Berry Confetti Print) is back!! The kind of dress that gets “All the compliments”🤭✨ 
+
+Price: ₦62,500 
+
+Shop her online at www.zivalagos.com or visit us in-store 
+
+#zivalagos # #nigerianfashion #womenswear #lagosstyle",29,4,77000,2026-05-12 12:00:36+00:00,Very beautiful dress😊💯🔥 I like it,Video,0.0377,12.0,Tuesday,True,High Intent,positive,4
+ashluxe,instagram,https://www.instagram.com/p/DXKKhf-EndP/,"Graffiti, the Ashluxe way. Modern and unapologetically confident.",103,2,150000,2026-04-15 16:22:16+00:00,🔥,Image,0.0687,16.0,Wednesday,False,No Signal,positive,0
+ashluxe,instagram,https://www.instagram.com/p/DXHkGyvl6Z5/,"A study in contrast, pairing sheer precision with tactile drama.",557,10,150000,2026-04-14 16:06:57+00:00,"Dear Ashluxe 
+
+My name is Ayoade, and I’m a growing streetwear and fashion content creator with a strong passion for storytelling through fashion content.
+
+I create clean, engaging, and consistent content that helps showcase the identity and energy behind each collection in a natural and stylish way. My goal is not just to promote clothing, but to create content that connects with audiences and brings more visibility to brands.
+
+I truly admire your brand and would love the opportunity to collaborate and create content featuring your pieces.
+
+Thank you for your time, and I look forward to hearing from you.
+
+Kind regards,  @ashluxe 
+Ayoade",Sidecar,0.3713,16.0,Tuesday,False,No Signal,neutral,0
+zivalagos,instagram,https://www.instagram.com/p/DYCShoaMoEg/,"Every girl needs a Marrakech Linen (Capri Bloom) dress in her wardrobe 💜🤭
+
+Because anything else is not Ziva approved
+
+Price: ₦79,500
+
+Visit the link in our bio to shop or walk into our store
+
+#zivalagos #linendress #fashionstoreinnigeria #lagosfashion",30,4,77000,2026-05-07 11:29:29+00:00,That dress ❤️❤️❤️❤️,Video,0.039,11.0,Thursday,True,High Intent,neutral,3
+zivalagos,instagram,https://www.instagram.com/p/DXto6glhHTj/,"Trends fade, but black dresses don’t.🖤
+
+The Vienna Mesh Dress (Noir Lattice Print) is that one piece that never goes out of style.
+
+Price: ₦98,000
+
+Shop online at www.zivalagos.com or in-store.
+
+#zivalagos #meshdresses #viennameshdress #readytowearbrandsinlagos",47,5,77000,2026-04-29 11:00:00+00:00,Superior ❤️,Video,0.061,11.0,Wednesday,True,High Intent,negative,2
+zivalagos,instagram,https://www.instagram.com/p/DX1RAWgsR6r/,"Divas, if you think you’ve got nothing to wear, you haven’t met the Karasi Dress (Golden Halo Print) yet.✨
+
+Price: ₦72,000
+
+Shop her online at www.zivalagos.com or visit us in store.​​​​​​​​​​​​​​​​
+
+#zivalagos #readytowearbrandsinlagos #zivalagosdresses",46,5,77000,2026-05-02 10:05:33+00:00,😍😍😍,Video,0.0597,10.0,Saturday,True,High Intent,positive,2
+zivalagos,instagram,https://www.instagram.com/p/DXwL2TnsGJ9/,"Do we have your attention, Divas?🤍
+
+The Milan Mesh Dress (Grey Ziva Print) is back in stock, just like you asked.🥰
+
+When life gives you a restock, you go shopping!
+
+Price: ₦110,000
+
+Shop online at www.zivalagos.com or in-store.
+
+#zivalagos #restockeddresses #meshdresses #lagosfashionstore",36,3,77000,2026-04-30 10:44:31+00:00,😍😍😍😍 Mi what???? Milaaaaaaannn!,Video,0.0468,10.0,Thursday,True,High Intent,neutral,4
+zivalagos,instagram,https://www.instagram.com/p/DXrEnyGjM2a/,"Such a dreamy dress.🩷
+
+The Milan Mesh Dress (Pinkaze Print) is soft and sheer, and has you walking in with all eyes on you.
+
+Price: ₦75,000
+
+Shop online at www.zivalagos.com or in-store.
+
+#zivalagos #milanmeshdress #pinkdresses #meshdress",66,6,77000,2026-04-28 11:06:30+00:00,🔥🔥🔥,Video,0.0857,11.0,Tuesday,True,High Intent,neutral,2
+zivalagos,instagram,https://www.instagram.com/p/DX6gVJpspMd/,"The Maya Dress (Desert Ripple Print) is that dress, and you already know it. 🤍
+
+Price: ₦62,100
+
+Shop her online at www.zivalagos.com or visit us in-store.
+
+#zivalagos #zivadivas #lagosfashion #readytowear​​​​​​​​​​​​​​​​brandsinlagos",24,3,77000,2026-05-04 10:56:04+00:00,😍😍😍,Video,0.0312,10.0,Monday,True,High Intent,neutral,2
+zivalagos,instagram,https://www.instagram.com/p/DX4QEnXMJHQ/,"This week’s Ziva Divas!
+
+The girls were outside and they looked GOOD. And yes, we have receipts.💜
+
+#zivalagos #zivadivas #zivadivasoftheweek",9,1,77000,2026-05-03 13:55:28+00:00,😍😍😍,Video,0.0117,13.0,Sunday,False,No Signal,positive,0
+wflsncrm,instagram,https://www.instagram.com/p/DUn8rRkDTiQ/,Lagos Love 26’ P2,415,17,25000,2026-02-11 16:24:09+00:00,😂why mr biodun,Video,1.66,16.0,Wednesday,False,Low Intent,positive,0
+wflsncrm,instagram,https://www.instagram.com/p/DUn79H6Db4F/,Lagos Love 26’ P1,421,29,25000,2026-02-11 16:18:37+00:00,Shirt ⬆️,Video,1.684,16.0,Wednesday,False,Low Intent,positive,0
+wflsncrm,instagram,https://www.instagram.com/p/DUn9rAdjfQz/,Lagos Love 26’ P3,1750,83,25000,2026-02-11 16:33:18+00:00,@samuelkaizar I like to hear more from you 💯,Video,7.0,16.0,Wednesday,False,Low Intent,positive,0
+zivalagos,instagram,https://www.instagram.com/p/DXzM1E3M4ic/,"Where are our Bubu lovers?💛
+
+Don’t pretend you don’t need this.🤭
+
+The Short Tiffany Bubu (Ring Dot Print) is made for your soft days out.
+
+Price: ₦53,500
+
+Get her on our website at www.zivalagos.com or walk into our store.
+
+#zivalagos #bubus #ankarabubus #lagosfashionstores #readytowearbrandsinlagos",26,3,77000,2026-05-01 14:50:45+00:00,😍😍😍,Video,0.0338,14.0,Friday,True,High Intent,neutral,1
+wflsncrm,instagram,https://www.instagram.com/p/DUqob7vjdnT/,Lagos Love 26’ Available in-store and online,267,4,25000,2026-02-12 17:24:01+00:00,Top notch 🔥,Image,1.068,17.0,Thursday,True,Medium Intent,positive,1
+wflsncrm,instagram,https://www.instagram.com/p/DSi9zfACh3w/,,711,14,25000,2025-12-22 00:54:01+00:00,Hello can u please check your dm..,Image,2.844,0.0,Monday,False,No Signal,neutral,0
+wflsncrm,instagram,https://www.instagram.com/p/DUoBB2zjU1j/,Lagos Love 26’ P4,423,24,25000,2026-02-11 17:01:47+00:00,❤️,Video,1.692,17.0,Wednesday,False,Low Intent,positive,0
+wflsncrm,instagram,https://www.instagram.com/p/DWqhovkDZ5A/,"waf@14. All glory to God, Thank you for the love and support over the years. 🍻",255,19,25000,2026-04-03 09:30:53+00:00,Whooop!! Congrats!! Can’t wait to fully have you in NAIROBI,Image,1.02,9.0,Friday,False,Low Intent,positive,0
+ashluxe,instagram,https://www.instagram.com/p/DWRmUBNEhf6/,The Ashluxe Manor. A journey of craftsmanship and precision. Coming soon.,3114,21,150000,2026-03-24 17:15:31+00:00,🔥🔥,Image,2.076,17.0,Tuesday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWCFxtiEteB/,"Relaxed proportion and structured layering, resolved with quiet precision.",117,2,150000,2026-03-18 16:35:49+00:00,A lil touch 🔥,Image,0.078,16.0,Wednesday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DV_dLuZEkSk/,"A bold interplay of colour, movement, and composed form set against the rhythm of sport.",298,11,150000,2026-03-17 16:07:43+00:00,❤️❤️❤️❤️❤️,Image,0.1987,16.0,Tuesday,True,Medium Intent,positive,2
+wflsncrm,instagram,https://www.instagram.com/p/DRrb4jPDc9T/,"Nairobi, Kenya 25’ 🇰🇪",809,4,25000,2025-11-30 11:19:23+00:00,🔥🔥🔥,Sidecar,3.236,11.0,Sunday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWUODxkEumV/,The story continues. An ode to refined elegance. Built for ease and comfort.,627,14,150000,2026-03-25 17:35:09+00:00,Manor story keeps movinggg,Video,0.418,17.0,Wednesday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWWx0P6kjRF/,"Ashluxe ushers you into a world of artistry, woven in a structured blend of texture and style. ✨",1637,27,150000,2026-03-26 17:25:06+00:00,🔥🔥🔥👏👏👏,Video,1.0913,17.0,Thursday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWJxe4-l_E0/,"A study in tension and balance, where form and presence exist in solemn contrast.",179,6,150000,2026-03-21 16:10:00+00:00,❤️,Sidecar,0.1193,16.0,Saturday,False,No Signal,neutral,0
+zivalagos,instagram,https://www.instagram.com/p/DYKPzR3MDDg/,"This week’s Ziva Divas😍  The girlies ate and absolutely left no crumbs👌
+
+#zivadivas #zivalagos #lagosfashion #nigeriafashionbrand",36,5,77000,2026-05-10 13:39:40+00:00,💜💜💜💜,Video,0.0468,13.0,Sunday,False,No Signal,neutral,0
+zivalagos,instagram,https://www.instagram.com/p/DYH0V4NsVt9/,"Our mesh dresses are bestsellers for a reason. ❤️💜
+
+Designed to fit like a second skin and turn heads in every room.
+
+🛍️ Shop online at www.zivalagos.com (link in bio)
+📍 Visit us in-store
+
+#ZivaLagos #ZivaWoman #Bestsellers",66,6,77000,2026-05-09 15:08:06+00:00,❤️❤️❤️,Video,0.0857,15.0,Saturday,True,Medium Intent,neutral,2
+wflsncrm,instagram,https://www.instagram.com/p/DUoLSTUDW8k/,Lagos Love 26’ P6,998,16,25000,2026-02-11 18:32:51+00:00,Did she lie?,Video,3.992,18.0,Wednesday,False,Low Intent,positive,0
+zivalagos,instagram,https://www.instagram.com/p/DYE3qySsDlV/,"The Milan Mesh Dress (Hydrangea Print) 💜✨
+
+Restocked!! Because the girlies clearly weren’t done with her 🤭
+Date nights, birthdays, brunch plans, girls’ night out, this is that dress ✨
+
+Price: ₦110,000
+
+Visit the link in our bio to shop or walk into our store.
+
+#zivalagos #lagosfashion #nigerianfashion #womenswear #lagosstyle",28,6,77000,2026-05-08 11:32:35+00:00,😍😍,Video,0.0364,11.0,Friday,True,High Intent,neutral,5
+veekeejames_official,instagram,https://www.instagram.com/p/DYIm3HyiThF/,"VJ x MsMetics 💥
+Thousands of Strip Lashes by @msmetics imagined by @veekee_james for @nomzamo_m 
+#amvca #amvca2026
+
+Dress @veekeejames_official 
+Hair @adefunkeee @zubbydefinition 
+Stylist @dahmola 
+Makeup @bibyonce 
+Photographer @eyeswideshotng",44328,436,2000000,2026-05-09 22:21:39+00:00,The structure of this piece gives it such a commanding elegance.🔥,Sidecar,2.2164,22.0,Saturday,False,No Signal,neutral,0
+veekeejames_official,instagram,https://www.instagram.com/p/DV3vU_4kc9o/,"All we need you to do is ‘DREAM’ and the rest is history 💥💥
+Our beautiful bride @simisanyaa in her Custom VJ Dream Wedding Dress 👰 
+
+Bride’s look: @veekeejames_official
+Couple Stylist: @_emmanuelgoodnews 
+Hairstylist : @adefunkeee
+Makeup: @ariyike_mua
+Groom’s look : @tinathan.official 
+Event Planner : @elithan_events 
+Bride accessories: @bozdiamonds
+#meetthedapsons",261633,9848,2000000,2026-03-14 16:07:23+00:00,So beautiful ❤️,Video,13.0816,16.0,Saturday,False,Low Intent,positive,0
+ashluxe,instagram,https://www.instagram.com/p/DWHPPd-l-BB/,"An off duty expression shaped by ease, proportion, and graphic storytelling.",215,7,150000,2026-03-20 16:33:14+00:00,The calmness of that tee is crazy 🔥🔥,Sidecar,0.1433,16.0,Friday,False,No Signal,neutral,0
+wflsncrm,instagram,https://www.instagram.com/p/DOmLe9ujUDD/,"Tarkwa Bay, 2025 
+
+📸@tolaniadu",638,7,25000,2025-09-14 20:45:42+00:00,Amen,Image,2.552,20.0,Sunday,False,No Signal,neutral,0
+veekeejames_official,instagram,https://www.instagram.com/p/DVwSCNMCVdp/,"COLOURS WELL EXECUTED 💥💥😍
+Our beautiful bride @simisanyaa in her Custom VJ Trad Look❤️
+
+Bride’s outfit @veekeejames_official
+Couple Stylist @regal.by.dovin
+Groom’s outfit @tochini__
+Purse/handfan @luxe_xtra
+Makeup @glambyomoye
+Hairstylist @deolasannibeautyhairco
+Jewelry @pelz_signature 
+Gele @sammyinventions
+Event Planner @elithan_events
+#meetthedapsons26",170293,4340,2000000,2026-03-11 18:41:46+00:00,Too perfect,Video,8.5146,18.0,Wednesday,True,Medium Intent,positive,2
+wflsncrm,instagram,https://www.instagram.com/p/DPRNG5fDONV/,65 🇳🇬,369,7,25000,2025-10-01 13:47:14+00:00,"What about the first picture? Is it really in Nigeria? I have never seen that ""Karkabou"" percussion instrument in nigeria! It's a North African instrument no?",Sidecar,1.476,13.0,Wednesday,False,No Signal,neutral,0
+veekeejames_official,instagram,https://www.instagram.com/p/DR7Dd6biI11/,"Our Beautiful bride @_idyessien_ in her VJ white wedding dress 😍
+
+Dress @veekeejames_official 
+Styling @thewardrobemanager 
+Makeup @sunshine_makeup_artistry 
+Hair Stylist @style_conic 
+#pridy25",26026,222,2000000,2025-12-06 13:04:00+00:00,😍😍😍,Video,1.3013,13.0,Saturday,False,Low Intent,positive,0
+veekeejames_official,instagram,https://www.instagram.com/p/DUqWll0kY1Z/,"Maryland, Appointments are now available!
+Book via the link in bio!
+Limited slots open!",25838,270,2000000,2026-02-12 14:50:23+00:00,When are you coming back to Maryland 😢😢😢😢,Image,1.2919,14.0,Thursday,True,Medium Intent,neutral,2
+veekeejames_official,instagram,https://www.instagram.com/p/DTDxDdAjSX1/,"Too much? 🤯🤯 for the 1st VJ Bride of 2026? 😍😍
+Now this is how you start a good year🥰🥰💃🏻 @zainabquadri_ ❤️
+
+Wedding Dress @veekeejames_official 
+Hair stylist @adefunkeee 
+Styling @thewardrobemanager 
+Makeup @ariyike_mua
+Planner @tessallureevents",78513,792,2000000,2026-01-03 18:41:18+00:00,Lovely,Video,3.9256,18.0,Saturday,False,No Signal,positive,0
+wflsncrm,instagram,https://www.instagram.com/p/DNsfkFpWkug/,"waf.Skatepark Lagos 
+
+📸 @frydfacherson",576,14,25000,2025-08-23 11:05:13+00:00,😍,Sidecar,2.304,11.0,Saturday,False,No Signal,neutral,0
+wflsncrm,instagram,https://www.instagram.com/p/DUoBxxcjQ0-/,Lagos Love 26’ P5,428,69,25000,2026-02-11 17:11:05+00:00,3y3 realllllllll😂,Video,1.712,17.0,Wednesday,False,Low Intent,positive,0
+veekeejames_official,instagram,https://www.instagram.com/p/DR7jr0NiIZM/,"Whoooossshhhh💥💥💥💥
+1 Bride 3 fire looks 🔥
+Congratulations Bridey @_idyessien_ ❤️
+
+Dress @veekeejames_official 
+Styling @thewardrobemanager 
+Makeup @sunshine_makeup_artistry 
+Hair stylist @style_conic",67370,1239,2000000,2025-12-06 17:39:07+00:00,🔥,Video,3.3685,17.0,Saturday,False,Low Intent,neutral,0
+veekeejames_official,instagram,https://www.instagram.com/p/DYIf9jYJmJO/,"VJ x MsMetics 💥
+Thousands of Strip Lashes by @msmetics imagined by @veekee_james for @nomzamo_m 
+#amvca #amvca2026
+
+Dress @veekeejames_official 
+Hair @adefunkeee @zubbydefinition 
+Stylist @dahmola 
+Makeup @bibyonce 
+Videographer @durrode",86899,1446,2000000,2026-05-09 21:27:27+00:00,🔥🔥🔥🔥,Video,4.345,21.0,Saturday,False,No Signal,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DWEoXWmks2s/,"The Nigeria X Brazil Football Shirt in White reinterprets football culture through form and identity.
+Now available on ash-luxe.com",361,8,150000,2026-03-19 16:15:28+00:00,🇳🇬🇳🇬🇳🇬,Image,0.2407,16.0,Thursday,True,Medium Intent,neutral,1
+zivalagos,instagram,https://www.instagram.com/p/DX9TL7Bs3Sy/,"Restocked and ready!
+
+The Milan Mesh Dress (Ziva Custom Print) is back, just in case you needed a new favourite.🤭
+
+Price: ₦110,000. 
+
+Shop her online at www.zivalagos.com or visit us in store.
+
+#zivalagos #milanmeshdress #meshdresses #readytowearbrandsinlagos",68,5,77000,2026-05-05 12:58:42+00:00,😍😍😍,Video,0.0883,12.0,Tuesday,True,High Intent,neutral,4
+veekeejames_official,instagram,https://www.instagram.com/p/C61gBppOnsA/,"The Artist and her Canvas 💣
+VEEKEE JAMES x OSAS 💣 
+#amvca10
+
+Dress @veekeejames_official 
+Muse @officialosas 
+Photographer @officialphotofreak
+Hair @touchofibee 
+Makeup @lokengoo
+Earrings @wowaccessorries",148735,2474,2000000,2024-05-11 17:05:55+00:00,🔥🔥🔥,Sidecar,7.4368,17.0,Saturday,False,Low Intent,neutral,0
+ashluxe,instagram,https://www.instagram.com/p/DXuLT1hu_LP/,A behind-the-scene look of the Ashluxe Manor (Stadium) campaign.,378,15,150000,2026-04-29 16:00:00+00:00,😍👏,Video,0.252,16.0,Wednesday,False,No Signal,neutral,0
+veekeejames_official,instagram,https://www.instagram.com/p/DYKgiActfDM/,"The process is my favorite part 💥
+#BTS 
+#amvca #amvca2026 
+
+Dress @veekeejames_official",392199,12867,2000000,2026-05-10 16:10:43+00:00,"Ahora sale por ahí un diseñador, robándose la idea  Ya podría imaginar de donde y  diciendo que es su creación de😂",Video,19.61,16.0,Sunday,False,No Signal,positive,0
+veekeejames_official,instagram,https://www.instagram.com/p/DTD414-jUEH/,"One word for this dress 😍😍💥💥💥💥
+@zainabquadri_ in @veekeejames_official 
+
+Videographer @durrode 
+Styling @thewardrobemanager 
+Hair @adefunkeee 
+Makeup @ariyike_mua
+Planner @tessallureevents",91634,1545,2000000,2026-01-03 19:48:55+00:00,Omg this dress is breathtaking 🥰,Video,4.5817,19.0,Saturday,False,No Signal,neutral,0
+veekeejames_official,instagram,https://www.instagram.com/p/C61Vd8Oo_XB/,"Wearable Art : VEEKEE JAMES x TM ❄️ 
+#amvca10
+
+Dress @veekeejames_official 
+Muse @tokemakinwa 
+Styling @hfstylebook 
+Photographer @photokulture
+Hair @hairbybukks_ 
+Makeup @wunmique",109637,2349,2000000,2024-05-11 15:33:40+00:00,Met gala theme should either be Veekee James or Africa magic,Sidecar,5.4818,15.0,Saturday,False,No Signal,neutral,0
+veekeejames_official,instagram,https://www.instagram.com/p/DR2gdOADXui/,"NSIBIDI in full action for our beautiful bride IDY 😍😍
+I don’t know what we love more😍
+The Colours of the Details? 💥💥
+•
+Marriage Outfit @veekeejames_official 
+Bridal Styling @thewardrobemanager 
+Makeup artist @sunshine_makeup_artistry 
+Hairstylist @style_conic 
+Event planner @eventbytoya 
+Accessories @pinkperfection_accessories 
+Hand-fan @chic_elle.ng @kemcystouch
+Umbrella @kishlys 
+Photography @lucasugoweddings
+Videography @esiaga
+Content Creator @nosatemz @thereelschef___
+#Pridy25",29383,482,2000000,2025-12-04 18:32:03+00:00,Heavenly ❤️❤️❤️❤️,Video,1.4692,18.0,Thursday,True,Medium Intent,positive,2
+veekeejames_official,instagram,https://www.instagram.com/p/DSxlzHRjYUJ/,"These Details🤯🤯💥💥
+Our beautiful bride @dribukunadebayo in her custom VJ wedding dress❤️
+
+Dress @veekeejames_official 
+Makeup @jideofstola 
+Hair @hairbyehis",84526,3057,2000000,2025-12-27 17:21:35+00:00,"This gal can create, we need this pieces in future. The museum  for this dresses pleass we want our kids to one day to visit this museum  please , Instagram  isn't  enough  please 🙌🙌",Video,4.2263,17.0,Saturday,False,Low Intent,positive,0
+veekeejames_official,instagram,https://www.instagram.com/p/C2FbMykI-Ud/,"If you can see this video, please like and leave a comment❤️
+Trying to see if instragram has shadow banned me for not posting in a while😅",535685,9694,2000000,2024-01-14 15:00:38+00:00,🔥,Video,26.7842,15.0,Sunday,False,No Signal,neutral,0
