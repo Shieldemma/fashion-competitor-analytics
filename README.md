@@ -126,7 +126,7 @@ fashion_intel/        pipeline package (config, extract, validate, clean, transf
 config/brands.json    competitor registry (+ follower source/as-of)
 dashboard/            Streamlit app
 sql/                  analytical queries (SQLite + PostgreSQL)
-database/             schema.sql (generated) + legacy_schema_v1.sql
+database/             schema.sql (generated PostgreSQL DDL)
 data/raw/             raw inputs (read-only)
 data/processed/       tidy tables, analysis/*.csv, validation report, run manifest
 data/evaluation/      labelled comments + synthetic challenge set

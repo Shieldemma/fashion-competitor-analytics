@@ -2,7 +2,7 @@
 -- PostgreSQL DDL for the v2 warehouse, generated from fashion_intel/db.py:
 --   python -m fashion_intel schema > database/schema.sql
 -- You do not need to run this by hand: the pipeline creates missing tables (CREATE IF NOT EXISTS
--- semantics) and never drops or alters existing ones. The legacy v1 schema is in legacy_schema_v1.sql.
+-- semantics) and never drops or alters existing ones.
 
 CREATE TABLE competitor_brands (
 	brand_handle VARCHAR(100) NOT NULL, 
