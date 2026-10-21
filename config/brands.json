@@ -1,0 +1,46 @@
+{
+  "_comment": "Competitor registry. follower_count values were entered manually by the analyst; they are NOT collected by the scraper. Source and as_of are recorded so readers can judge them. Set follower_count to null if unknown - never guess.",
+  "audit_window_days": 60,
+  "brands": [
+    {
+      "brand_handle": "veekeejames_official",
+      "display_name": "Veekee James",
+      "platform": "instagram",
+      "follower_count": 2000000,
+      "follower_source": "manual entry from Instagram profile (approximate, rounded)",
+      "follower_as_of": null
+    },
+    {
+      "brand_handle": "ashluxe",
+      "display_name": "Ashluxe",
+      "platform": "instagram",
+      "follower_count": 150000,
+      "follower_source": "manual entry from Instagram profile (approximate, rounded)",
+      "follower_as_of": null
+    },
+    {
+      "brand_handle": "wflsncrm",
+      "display_name": "WAF Lagos",
+      "platform": "instagram",
+      "follower_count": 25000,
+      "follower_source": "manual entry from Instagram profile (approximate, rounded)",
+      "follower_as_of": null
+    },
+    {
+      "brand_handle": "zivalagos",
+      "display_name": "Ziva Lagos",
+      "platform": "instagram",
+      "follower_count": 77000,
+      "follower_source": "manual entry from Instagram profile (approximate, rounded)",
+      "follower_as_of": null
+    },
+    {
+      "brand_handle": "yomicasual",
+      "display_name": "Yomi Casual",
+      "platform": "instagram",
+      "follower_count": null,
+      "follower_source": "conflicting manual values in legacy code (500K vs 1M); left unknown",
+      "follower_as_of": null
+    }
+  ]
+}
