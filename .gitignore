@@ -17,13 +17,12 @@ fashion/
 data/raw/apify_raw.csv
 data/raw/playwright_posts_*.csv
 
-# Regenerable outputs
+# Regenerable outputs (posts.csv / comments.csv are committed so the hosted dashboard can run)
 data/warehouse/
 data/sample/
 logs/
 *.log
 data/processed/*.tmp
-data/processed/comments.csv
 data/processed/quarantine_*.csv
 # Legacy outputs from the v1 scripts
 data/cleaned/

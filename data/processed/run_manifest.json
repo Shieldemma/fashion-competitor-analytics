@@ -1,13 +1,13 @@
 {
-  "run_id": "20261021T140435Z-611425",
+  "run_id": "20261021T140742Z-ab3a5f",
   "code_version": "2.0.0",
-  "started_at_utc": "2026-10-21T14:04:35+00:00",
-  "finished_at_utc": "2026-10-21T14:04:36+00:00",
+  "started_at_utc": "2026-10-21T14:07:42+00:00",
+  "finished_at_utc": "2026-10-21T14:07:44+00:00",
   "source": {
     "source_file": "apify_raw.csv",
     "source_sha256": "0d55ca2b43aafc658334d6d046411565c2a8797452314163903147dba42034b6",
     "file_modified_at_utc": "2026-05-13T02:48:01.980853+00:00",
-    "extracted_at_utc": "2026-10-21T14:04:35+00:00",
+    "extracted_at_utc": "2026-10-21T14:07:42+00:00",
     "input_format": "apify_instagram"
   },
   "audit_window": {
