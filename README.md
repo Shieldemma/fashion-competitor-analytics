@@ -4,7 +4,7 @@
 
 *Portfolio case study based on a public Upwork brief ("Data Analyst for Lagos Fashion Retail: Historical Scraping & Competitor Audit"). There was no client engagement, and the data is public Instagram content.*
 
-**📊 Live dashboard:** _add your Streamlit Community Cloud link here_ · **🖼️ One-page summary:** [image](docs/linkedin/linkedin_summary.png) · **📑 Slides:** [carousel PDF](docs/linkedin/linkedin_carousel.pdf)
+**📊 [Live dashboard](https://csxwsuvcgayckcnvkaw22s.streamlit.app)** (opens in your browser; may take ~30 s to wake up) · **🖼️ One-page summary:** [image](docs/linkedin/linkedin_summary.png) · **📑 Slides:** [carousel PDF](docs/linkedin/linkedin_carousel.pdf)
 
 ![Dashboard: executive summary](docs/screenshots/dashboard_v2_hero.png)
 
@@ -100,7 +100,7 @@ The dashboard reads only the committed files in `data/processed/`, so it runs on
 1. Push this repo to GitHub.
 2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub, and click **Create app**.
 3. Repository `Shieldemma/fashion-competitor-analytics`, branch `main`, main file `dashboard/streamlit_app.py`. Under *Advanced settings*, pick Python 3.12.
-4. Deploy, then paste the `*.streamlit.app` link at the top of this README.
+4. Deploy. This project's live app: https://csxwsuvcgayckcnvkaw22s.streamlit.app
 
 ### Using PostgreSQL instead of SQLite
 

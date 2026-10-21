@@ -23,7 +23,7 @@ The part I'm proudest of: I did NOT recommend a budget split. Only Instagram dat
 
 Instead I recommended a 6-week attribution test (a separate WhatsApp link, UTM tag and discount code per platform) to measure cost per order, not likes.
 
-📊 Live dashboard: [Streamlit link]
+📊 Live dashboard: https://csxwsuvcgayckcnvkaw22s.streamlit.app
 💻 Code + technical audit: github.com/Shieldemma/fashion-competitor-analytics
 
 #DataAnalytics #Python #SQL #NLP #DataEngineering #Streamlit #Lagos #Nigeria #OpenToWork
