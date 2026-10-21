@@ -101,7 +101,7 @@ data/processed/       tidy tables, analysis/*.csv, validation report, run manife
 data/evaluation/      labelled comments + synthetic challenge set
 reports/              executive summary, generated findings, classifier evaluation, technical audit
 docs/                 architecture, data dictionary, intent taxonomy, NLP decision, provenance
-analytics/            v1 entry points (now thin wrappers around the pipeline)
+analytics/            engagement_analysis.py: runs every sql/*.sql query against the warehouse
 scraper/              experimental Playwright scraper
 tests/                pytest suite
 ```

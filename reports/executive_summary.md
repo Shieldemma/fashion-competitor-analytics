@@ -2,8 +2,8 @@
 
 **Prepared by:** Otuekong Emmanuel · **Portfolio case study** inspired by a public Upwork brief (no client engagement)
 **Data:** public Instagram posts and comments, collected with Apify on about 13 May 2026
-**Audit window:** 13 Mar → 12 May 2026 (60 days) · **Pipeline run:** `20261021T140435Z-611425`
-**Every number below comes from `reports/findings_generated.md` for that run.**
+**Audit window:** 13 Mar → 12 May 2026 (60 days) · **Pipeline run:** see `data/processed/run_manifest.json` (the same input always gives the same numbers)
+**Every number below comes from `reports/findings_generated.md`.**
 
 ---
 

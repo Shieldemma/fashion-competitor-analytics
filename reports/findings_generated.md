@@ -1,6 +1,6 @@
 # Generated Findings (auto-generated — do not edit by hand)
 
-Run `20261021T140435Z-611425` · code v2.0.0 · generated 2026-10-21T14:04:36+00:00
+Run `20261021T140742Z-ab3a5f` · code v2.0.0 · generated 2026-10-21T14:07:44+00:00
 
 ## Provenance
 

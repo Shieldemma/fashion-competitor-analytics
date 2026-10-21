@@ -29,7 +29,7 @@ Every processed row carries `data_source`, `source_file`, `source_sha256`, `sour
 
 - Commenter handles are replaced by a salted one-way hash (`commenter_id`) in all derived outputs and in the database.
 - `data/processed/comments.csv` and `data/raw/apify_raw.csv` are gitignored.
-- ⚠️ `data/raw/real_comments.csv` (from the v1 pipeline) **contains raw commenter usernames and is tracked in git history.** Before making the repo public, consider removing it from tracking (`git rm --cached data/raw/real_comments.csv`). Rewriting history removes it from past commits, but that is a destructive operation, so do it deliberately.
+- ⚠️ The v1 file `data/raw/real_comments.csv` (raw commenter usernames) has been deleted from the project, but it **still exists in older git commits**. If you push the full history publicly, consider rewriting history to purge it (destructive, so do it deliberately) or publishing a fresh repository.
 
 ## Replacing the inputs with your own authorised data
 
