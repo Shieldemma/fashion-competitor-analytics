@@ -1,7 +1,7 @@
 # Lagos Fashion Social Media Competitor Intelligence
 ## Executive Summary Report
 
-**Prepared by:** Otuekong Emmanuel (Shieldemma)
+**Prepared by:** Otuekong Emmanuel 
 **Date:** May 2026
 **Scope:** 66 posts, 569 comments, 4 brands, 2-month audit
 
@@ -13,12 +13,12 @@ Determine which social media platform and content strategy drives the strongest 
 ---
 
 ## Brands Audited
-| Brand | Handle | Followers | Category |
-|-------|--------|-----------|----------|
-| Veekee James | @veekeejames_official | 2M | Bridal/Luxury |
-| Ashluxe | @ashluxe | 150K | Streetwear |
-| WAF Lagos | @wflsncrm | 25K | Culture/Streetwear |
-| Ziva Lagos | @zivalagos | 77K | Women's RTW |
+| Brands        | Handle                | Followers | Category          |
+|---------------|-----------------------|-----------|-------------------|
+| Veekee James  | @veekeejames_official | 2M        | Bridal/Luxury     |
+| Ashluxe       | @ashluxe              | 150K      | Streetwear        |
+| WAF Lagos     | @wflsncrm             | 25K       | Culture/Streetwear|
+| Ziva Lagos    | @zivalagos            | 77K       | Women's RTW       |
 
 ---
 
@@ -31,12 +31,12 @@ Ziva Lagos generated 100% of all High Intent posts in the audit. Their captions 
 Veekee James achieved 7.17% average engagement rate — significantly above the 4-brand average of 2.26%. However this is skewed by viral outlier posts (535K likes). Median engagement is more representative.
 
 ### Finding 3 — Content Strategy Differences
-| Brand | Content Style | Purchase Intent |
-|-------|--------------|-----------------|
-| Ziva Lagos | Product-first, price-visible | High |
-| Veekee James | Bridal storytelling | Medium |
-| WAF Lagos | Community/culture | Low |
-| Ashluxe | Aesthetic/editorial | Low |
+| Brand        | Content Style                | Purchase Intent |
+|--------------|------------------------------|-----------------|
+| Ziva Lagos   | Product-first, price-visible | High            |
+| Veekee James | Bridal storytelling          | Medium          |
+| WAF Lagos    | Community/culture            | Low             |
+| Ashluxe      | Aesthetic/editorial          | Low             |
 
 ### Finding 4 — Optimal Posting Time
 Posts published between 12 PM and 6 PM WAT generated the highest engagement across all brands.

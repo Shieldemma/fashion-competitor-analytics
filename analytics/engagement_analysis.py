@@ -155,4 +155,4 @@ plt.tight_layout()
 plt.savefig("reports/engagement_charts.png", dpi=150, bbox_inches="tight")
 plt.show()
 
-print("✓ Charts saved to reports/engagement_charts.png")
+print(" Charts saved to reports/engagement_charts.png")
