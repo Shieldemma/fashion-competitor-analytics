@@ -267,3 +267,49 @@ def kpis(posts: pd.DataFrame, comments: pd.DataFrame) -> dict:
         "high_intent_commenters": int(comments.loc[comments["intent_label"] == "high", "commenter_id"].nunique()) if n else 0,
         "median_interactions": float(posts["interactions"].median()) if posts["interactions"].notna().any() else float("nan"),
     }
+
+
+# ── Executive views ─────────────────────────────────────────────────────────
+
+NO_TEXT_REASONS = {"empty", "mention_only", "no_text_emoji_or_symbols"}
+COMPOSITION_ORDER = ["High intent (explicit request)", "Medium (wants it)", "Uncertain",
+                     "Compliment / product interest", "Emoji or tag only", "Other (no purchase cue)"]
+
+
+def comment_category(comments: pd.DataFrame) -> pd.Series:
+    """Plain-English bucket for each comment: what the audience actually wrote."""
+    lab, reason = comments["intent_label"], comments["intent_reason"]
+    out = pd.Series("Other (no purchase cue)", index=comments.index)
+    out[lab == "high"] = COMPOSITION_ORDER[0]
+    out[lab == "medium"] = COMPOSITION_ORDER[1]
+    out[lab == "uncertain"] = COMPOSITION_ORDER[2]
+    out[lab == "low"] = COMPOSITION_ORDER[3]
+    out[(lab == "no_signal") & reason.isin(NO_TEXT_REASONS)] = COMPOSITION_ORDER[4]
+    return out
+
+
+def comment_composition(comments: pd.DataFrame, by: str = "brand_handle") -> pd.DataFrame:
+    """Share of sampled audience comments in each category. Denominator = comments in the group."""
+    if comments.empty:
+        return pd.DataFrame(columns=[by, "category", "comments", "group_total", "share_pct"])
+    df = comments.assign(category=comment_category(comments))
+    out = df.groupby([by, "category"]).size().rename("comments").reset_index()
+    out["group_total"] = out.groupby(by)["comments"].transform("sum")
+    out["share_pct"] = (out["comments"] / out["group_total"] * 100).round(1)
+    return out
+
+
+def intent_funnel(comments: pd.DataFrame) -> pd.DataFrame:
+    """From sampled comments down to purchases. The last step is not observable in public data."""
+    n = len(comments)
+    has_text = int((~comments["intent_reason"].isin(NO_TEXT_REASONS)).sum()) if n else 0
+    any_cue = int(comments["intent_label"].isin(["high", "medium", "uncertain"]).sum()) if n else 0
+    high = int((comments["intent_label"] == "high").sum()) if n else 0
+    people = int(comments.loc[comments["intent_label"] == "high", "commenter_id"].nunique()) if n else 0
+    steps = [("Audience comments sampled", n), ("Contain words (not just emoji/tags)", has_text),
+             ("Mention shopping at all", any_cue), ("Explicit purchase request", high),
+             ("Distinct people asking to buy", people), ("Verified purchases", None)]
+    out = pd.DataFrame(steps, columns=["step", "count"])
+    out["pct_of_sampled"] = [round(safe_rate(c, n), 2) if c is not None else float("nan") for c in out["count"]]
+    out["order"] = range(len(out))
+    return out

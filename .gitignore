@@ -11,7 +11,7 @@ fashion/
 # OS / editor
 .DS_Store
 .ipynb_checkpoints/
-.streamlit/
+.streamlit/secrets.toml
 
 # Raw scraper exports (large; contain third-party usernames). Keep locally.
 data/raw/apify_raw.csv

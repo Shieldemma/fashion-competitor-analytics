@@ -116,3 +116,17 @@ def test_scope_empty_selection_means_nothing_not_everything():
     assert p.empty and c.empty
     p, _ = metrics.scope(_posts(), _comments(), brands=None)
     assert not p.empty
+
+
+def test_funnel_and_composition():
+    c = _comments().assign(intent_reason=["x", "no_text_emoji_or_symbols", "x", "x", "x", "x"],
+                           brand_handle=["a", "a", "a", "b", "a", "b"])
+    c = c[c["is_audience"]]
+    f = metrics.intent_funnel(c).set_index("step")["count"]
+    assert f["Audience comments sampled"] == 5
+    assert f["Contain words (not just emoji/tags)"] == 4
+    assert f["Explicit purchase request"] == 3 and f["Distinct people asking to buy"] == 2
+    assert pd.isna(f["Verified purchases"])            # never claimed
+    comp = metrics.comment_composition(c)
+    assert comp.groupby("brand_handle")["share_pct"].sum().round().eq(100).all()
+    assert set(comp["category"]) <= set(metrics.COMPOSITION_ORDER)

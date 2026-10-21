@@ -4,7 +4,7 @@
 
 *Portfolio case study based on a public Upwork brief ("Data Analyst for Lagos Fashion Retail: Historical Scraping & Competitor Audit"). There was no client engagement, and the data is public Instagram content.*
 
-![Dashboard overview](docs/screenshots/dashboard_v2_overview.png)
+![Dashboard: executive summary](docs/screenshots/dashboard_v2_hero.png)
 
 ## The question and the honest answer
 
@@ -30,10 +30,31 @@ A big part of this project is **knowing what the data can't support**. The v1 ve
 | NLP: 5-class purchase-intent rules (negation, Pidgin, word boundaries), separate sentiment, evaluation | `fashion_intel/intent.py`, [taxonomy](docs/intent_taxonomy.md), [evaluation](reports/classifier_evaluation.md), [model decision](docs/nlp_model_decision.md) |
 | SQL: portable SQLite/PostgreSQL queries, tested against Python | `sql/`, `database/schema.sql` |
 | Statistics: denominators, Wilson intervals, sensitivity analysis | `fashion_intel/metrics.py`, [definitions](docs/data_dictionary.md) |
-| BI dashboard: filters, KPIs, coverage, definitions | `dashboard/streamlit_app.py` |
-| Testing: 124 pytest tests incl. SQL-vs-Python and dashboard smoke tests | `tests/` |
+| BI dashboard: executive one-pager, 10 interactive Altair chart types, filters, KPIs | `dashboard/streamlit_app.py`, `dashboard/charts.py` |
+| Testing: 125 pytest tests incl. SQL-vs-Python and dashboard smoke tests | `tests/` |
 
 Architecture diagram: [docs/architecture.md](docs/architecture.md).
+
+## The dashboard
+
+The **Executive summary** tab answers the client's brief on one page:
+
+1. **Brief scorecard:** what was asked (5 brands, several platforms, 2 months) vs. what the data covers
+2. **Purchase-intent funnel:** comments → words → any shopping cue → explicit buy request → people → sales (not observable)
+3. **What audiences actually write:** praise, emoji, questions, per brand
+4. **Recent vs. older posts:** where the few buying questions are, with 95% confidence intervals
+5. **Coverage timeline:** every collected post against the 60-day audit window
+6. **Competitor scorecard + caption behaviour,** then **the answer and a costed next step**
+
+Other tabs: purchase-intent detail and comment explorer, engagement (per-post spread, format, weekly volume),
+posting time (heatmap and weekday performance), data coverage and quality checks, method, and raw data with CSV download.
+All charts respond to the sidebar filters (brand, platform, date, audit window, collab and pinned posts).
+
+| Executive summary (full page) | Purchase intent | Engagement |
+|---|---|---|
+| ![](docs/screenshots/dashboard_v2_overview.png) | ![](docs/screenshots/dashboard_v2_intent.png) | ![](docs/screenshots/dashboard_v2_engagement.png) |
+| **Posting time** | **Data coverage** | |
+| ![](docs/screenshots/dashboard_v2_timing.png) | ![](docs/screenshots/dashboard_v2_coverage.png) | |
 
 ## Quick start (macOS)
 
