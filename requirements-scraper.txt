@@ -1,0 +1,2 @@
+# Optional: only for scraper/instagram_scraper.py
+playwright==1.59.0

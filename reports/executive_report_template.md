@@ -1,92 +1,35 @@
-# Lagos Fashion Social Media Competitor Intelligence Report
-**Client:** [Client Name]
-**Analyst:** [Your Name]
-**Date:** [Date]
-**Period covered:** [Start Date] – [End Date]
+# [Client] Social Media Competitor Audit: Executive Report
 
----
+**Prepared for:** [Client] · **Prepared by:** [Analyst] · **Date:** [YYYY-MM-DD]
+**Data:** [platforms] collected via [tool] on [collection date] · **Audit window:** [start] → [end]
+**Pipeline run:** `[run_id from data/processed/run_manifest.json]`
 
-## Executive Summary
+> Rule for this template: every number must be copied from `reports/findings_generated.md` for the named run.
+> Delete any section the data cannot support, and say why. Do not fill it with assumptions.
 
-This audit analysed [N] posts across 5 Lagos fashion competitors on Instagram over a [X]-week period. The primary finding is that **Instagram generates the highest purchase-intent behaviour** for Lagos fashion retail, driven by direct comment inquiries and DM-to-order culture. TikTok leads on raw reach but produces weaker buying signals.
+## 1. Question and answer
+- **Question:** [the client's decision, e.g. "Which platform should get more budget?"]
+- **Answer in one sentence:** [what the evidence supports, including "cannot be determined from this data" if true]
 
-**Bottom line recommendation:** Allocate 50% of social budget to Instagram, 30% to TikTok.
+## 2. Coverage
+| Competitor | Platforms collected | Posts in window | Sampled comments | Gaps |
+|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [ ] |
 
----
+## 3. Findings (each with its denominator and uncertainty)
+1. **[Finding]:** [number] ([numerator]/[denominator], 95% CI [x–y]%). *So what:* [business meaning].
+2. …
 
-## Brands Audited
+## 4. Robustness
+[Does the conclusion survive excluding collab posts, pinned posts and emoji-only comments, and using all posts instead of the window? Copy the sensitivity table.]
 
-| Brand | Handle | Platform | Followers (approx) |
-|-------|--------|----------|--------------------|
-| Veekee James | @veekeejames_official | Instagram + TikTok | 2M |
-| Ashluxe | @ashluxe | Instagram + TikTok | 150K |
-| WAF Lagos | @wflsncrm | Instagram | 25K |
-| Ziva Lagos | @zivalagos | Instagram + TikTok | 80K |
-| Yomi Casual | @yomicasual | Instagram | 500K |
+## 5. What this cannot tell you
+- Signals ≠ purchases: [state whether any sales, conversion or spend data was available]
+- Observational, not causal: [main confounders]
+- [Other gaps]
 
----
+## 6. Recommendation
+[Only what the evidence supports. If a budget split is not supported, recommend the experiment or data collection that would support one: platforms, duration, metric (cost per conversation/order), tracking method.]
 
-## Key Findings
-
-### Finding 1 — Engagement Leader
-**[Brand name]** achieved the highest average engagement rate at **[X]%**, outperforming the 5-brand average of **[Y]%** by **[N]x**.
-
-Their content strategy — primarily [describe: e.g. "short behind-the-scenes Reels with clear product pricing in captions"] — drove significantly more comment activity than static product images.
-
-### Finding 2 — Purchase Intent Leader
-**[X]%** of posts on Instagram contained high-intent signals (price inquiries, delivery questions, DM order requests) compared to **[Y]%** on TikTok.
-
-The Lagos fashion audience uses Instagram comments as a buying channel. Phrases like "price please," "do you deliver to Lekki," and "DM sent" appear frequently on high-performing posts.
-
-### Finding 3 — Top Performing Content Types
-| Content Type | Avg Engagement | Example |
-|-------------|---------------|---------|
-| Product Push | [X]% | "New collection drop — DM to order" |
-| Storytelling | [X]% | "Behind the scenes at our Lagos studio" |
-| Community | [X]% | "Thank you for 100K followers" |
-
-### Finding 4 — Optimal Posting Time
-Posts published between **7 PM and 10 PM WAT** generated the highest engagement, consistent across all brands audited.
-
----
-
-## Platform Comparison
-
-| Platform | Avg Engagement | High-Intent Rate | Best For |
-|----------|---------------|-----------------|---------|
-| Instagram | [X]% | [X]% | Purchase conversion |
-| TikTok | [X]% | [X]% | Brand reach + awareness |
-| Facebook | [X]% | [X]% | Older 35+ demographic |
-
----
-
-## Budget Recommendation
-
-Based on the data, the recommended monthly social media budget split is:
-
-| Platform | Recommended Allocation | Rationale |
-|----------|----------------------|-----------|
-| Instagram | **50%** | Highest purchase-intent signals; Lagos fashion commerce lives here |
-| TikTok | **30%** | Highest reach; growing social commerce adoption in Nigeria |
-| Facebook | **15%** | Retargeting older demographic; lower organic performance |
-| Twitter/X | **5%** | Minimal conversion signals; brand monitoring only |
-
----
-
-## Methodology
-
-- **Data collection:** Playwright browser automation (Python)
-- **Posts analysed:** [N] posts across [X] brands
-- **Engagement formula:** Likes ÷ Followers × 100
-- **Intent classification:** Keyword-based NLP (Python) — 14 high-intent phrases, 12 medium-intent phrases
-- **Sentiment analysis:** TextBlob polarity scoring
-- **Database:** PostgreSQL (fashiondb)
-- **Dashboard:** Streamlit web application
-
----
-
-## Appendix
-
-Full dataset available in: `data/processed/intent_classified.csv`
-Charts available in: `reports/engagement_charts.png`
-Interactive dashboard: run `streamlit run dashboard/streamlit_app.py`
+## 7. Method
+Collection → validation → classification (`docs/intent_taxonomy.md`) → metrics (`docs/data_dictionary.md`). Classifier performance: [copy from `reports/classifier_evaluation.md`, with its caveats].

@@ -1,0 +1,4 @@
+post_type,sampled_comments,high,medium,low,uncertain,no_signal,high_rate_pct,high_or_medium,high_or_medium_rate_pct,hm_ci_low,hm_ci_high,signals_per_100_comments,high_intent_commenters,posts_with_sampled_comments,posts_with_high,posts_with_high_pct,affordability_barrier,post_purchase_feedback
+Image,54,0,0,13,1,40,0.0,0,0.0,0.0,6.64,0.0,0,8,0,0.0,0,0
+Sidecar,85,0,0,28,0,57,0.0,0,0.0,0.0,4.32,0.0,0,14,0,0.0,0,0
+clips,141,0,0,43,0,98,0.0,0,0.0,0.0,2.65,0.0,0,24,0,0.0,0,0

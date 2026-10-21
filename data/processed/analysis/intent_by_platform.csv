@@ -1,0 +1,2 @@
+platform,sampled_comments,high,medium,low,uncertain,no_signal,high_rate_pct,high_or_medium,high_or_medium_rate_pct,hm_ci_low,hm_ci_high,signals_per_100_comments,high_intent_commenters,posts_with_sampled_comments,posts_with_high,posts_with_high_pct,affordability_barrier,post_purchase_feedback
+instagram,280,0,0,84,1,195,0.0,0,0.0,0.0,1.35,0.0,0,46,0,0.0,0,0

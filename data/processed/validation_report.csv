@@ -1,0 +1,8 @@
+table,check,severity,count,detail,examples
+source,scraper_error_row,warning,1,yomicasual: no_items - Empty or private data for provided input,
+posts,empty_caption,info,1,,
+posts,likes_hidden_by_platform,info,4,"stored as NULL, not 0",
+posts,collab_post,info,14,owned by another account but shown on the competitor's grid,
+comments,empty_text,info,1,,
+comments,account_reply,info,15,brand/collaborator replies excluded from audience metrics,
+comments,duplicate_comment_id,warning,4,deduplicated,

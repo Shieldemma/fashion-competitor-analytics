@@ -1,37 +1,33 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
+.pytest_cache/
 
-# Environment
+# Environment & secrets
 .env
 venv/
 fashion/
 
-# Mac
+# OS / editor
 .DS_Store
-
-# Jupyter
 .ipynb_checkpoints/
-
-# Data outputs
-data/cleaned/
-data/processed/
-
-# Streamlit cache
 .streamlit/
 
-# Logs
-*.log
-
-# Large installers
-Miniconda3-latest-MacOSX-arm64.sh
+# Raw scraper exports (large; contain third-party usernames). Keep locally.
 data/raw/apify_raw.csv
-Miniconda3-latest-MacOSX-arm64.sh
-.env
-__pycache__/
-*.pyc
-Miniconda3-latest-MacOSX-arm64.sh
-Miniconda3-latest-MacOSX-arm64.sh
-Miniconda3-latest-MacOSX-arm64.sh
+data/raw/playwright_posts_*.csv
+
+# Regenerable outputs
+data/warehouse/
+data/sample/
+logs/
+*.log
+data/processed/*.tmp
+data/processed/comments.csv
+data/processed/quarantine_*.csv
+# Legacy outputs from the v1 scripts
+data/cleaned/
+data/processed/intent_classified.csv
+
+# Installers
 Miniconda3-latest-MacOSX-arm64.sh

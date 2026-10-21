@@ -1,3 +1,6 @@
+> **ARCHIVED (v1, May 2026). Superseded by `reports/executive_summary.md`.** Several claims below are not supported by the data (see `reports/technical_audit.md` §R1): no platform other than Instagram was collected, the budget split had no data basis, and "High Intent" here was measured on brand captions, not customer comments. Kept for transparency.
+
+
 # Lagos Fashion Social Media Competitor Intelligence
 ## Executive Summary Report
 
