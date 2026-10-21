@@ -1,0 +1,56 @@
+text,label,category
+How much is this dress?,high,required
+"Please, do you deliver to Ikot Ekpene?",high,required
+I want to order this outfit.,high,required
+This dress is beautiful.,low,required
+I love it but cannot afford it.,low,required
+I don't want to buy this.,no_signal,required
+Where can I get this?,high,required
+The delivery was terrible.,no_signal,required
+,no_signal,required
+😍🔥😍,no_signal,required
+Price please,high,price
+Price?,high,price
+Wetin be the price?,high,pidgin
+How much be this one abeg,high,pidgin
+Last price?,high,price
+Hw much for the green one,high,spelling
+Do you have this in size 14?,high,availability
+Is the black one still available?,high,availability
+When will you restock the pink set?,high,availability
+Una dey deliver to Abuja?,high,pidgin
+Do you ship to London?,high,delivery
+How much is delivery to Port Harcourt?,high,delivery
+Can I pay on delivery?,high,payment
+Send your account number please,high,payment
+I wan buy am,high,pidgin
+I go buy this one for my birthday,high,pidgin
+How do I place an order?,high,order
+Can I order two pieces?,high,order
+I'd like to order this in red,high,order
+Sent you a DM about the dress,high,order
+Don't you deliver to Enugu?,high,negation_question
+I need this in my life,medium,desire
+I want this so bad,medium,desire
+My next birthday outfit 😍,medium,desire
+Saving up for this one,medium,desire
+What fabric is this?,medium,product_question
+Can't wait to wear this,medium,desire
+I no wan buy am,no_signal,negation_pidgin
+I will never buy from here again,no_signal,negation
+Not buying this,no_signal,negation
+I never received my order,no_signal,post_purchase
+Got my dress yesterday and I love it,no_signal,post_purchase
+Nice costume,low,word_boundary
+Our admin team is random,no_signal,word_boundary
+Priceless 🔥,low,word_boundary
+Stunning as always,low,compliment
+This is hard o 🔥🔥,low,compliment_slang
+Gorgeous queen,low,compliment
+Too expensive for me but it's lovely,low,affordability
+@bestie,no_signal,mention_only
+Amen,no_signal,none
+Congratulations on the launch,no_signal,none
+where?,uncertain,ambiguous
+link?,uncertain,ambiguous
+Maybe I'll get one later,uncertain,hedged
